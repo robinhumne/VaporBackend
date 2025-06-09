@@ -9,7 +9,7 @@ System Architecture
 
 ### **WishlistApp**
 ├── Server/ (VaporBackend)<br/>
-├── Client/ (iOS app)<br/>
+├── Client/ (iOS app) [https://github.com/robinhumne/CaseStudyWithVaporAPI.git].<br/>
 └── README.md<br/>
 
 Database Setup (MongoDB)
